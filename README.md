@@ -1,1 +1,1 @@
-# HTML5-Essentials-Code
+# HTML5 Coding Essentials
